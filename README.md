@@ -29,3 +29,21 @@ Note: All codes inside "Model" use no image processing in default. To activate i
 1- FCN:
 
 ![fcn](https://user-images.githubusercontent.com/78983558/150026926-0ee45ac0-2c55-4c71-b257-890302603373.png)
+
+2- UNET:
+
+![unet](https://user-images.githubusercontent.com/78983558/150027030-ac17e1a6-798d-4b3c-ab1f-ec4802b30b50.png)
+
+3- Residual-UNET:
+
+![resnet](https://user-images.githubusercontent.com/78983558/150027072-67a20b6e-73b9-4376-9ee2-925dfe41db37.png)
+
+4- Attention-UNET:
+
+![attunet](https://user-images.githubusercontent.com/78983558/150027126-05c43497-7d96-458c-ade6-83706d325ff7.png)
+
+5- Residual Attention-UNET:
+
+![resattunet](https://user-images.githubusercontent.com/78983558/150027167-b557ff39-39db-49e0-b90e-229328624e32.png)
+
+
