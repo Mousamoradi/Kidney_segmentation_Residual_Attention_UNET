@@ -26,3 +26,5 @@ How to use the code:
 Note: All codes inside "Model" use no image processing in default. To activate image processing, if part 2 already executed, please UNCOMMENT the associated lines inside each model. 
 
 # Models used:
+1- FCN:
+![fcn](https://user-images.githubusercontent.com/78983558/150026926-0ee45ac0-2c55-4c71-b257-890302603373.png)
