@@ -24,4 +24,5 @@ How to use the code:
 2- If image processing with CLAHE is needed, go to "image_processing+ROI detection+CLAHE" Then run the desired deep learning model in the "Model" Folder.
 
 Note: All codes inside "Model" use no image processing in default. To activate image processing, if part 2 already executed, please UNCOMMENT the associated lines inside each model. 
-![Figure_14-copy](https://user-images.githubusercontent.com/78983558/150025689-e6943465-2e07-4689-a4dd-707c7499f01b.png)
+
+# Models used:
