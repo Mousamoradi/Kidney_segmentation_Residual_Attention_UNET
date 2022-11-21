@@ -1,6 +1,6 @@
 # Kidney_segmentation_Residual_Attention_UNET
 # This python project has two main goals: 
-# 1- To check image rocessing including CLAHE contrast enhancement and automatic OTSU thresholding on kidney segmentation performance.
+# 1- To check image processing including CLAHE contrast enhancement and automatic OTSU thresholding on kidney segmentation performance.
 # 2- To assess Residual Attention-UNET for kidney segmentation with and without CLAHE. 
 
 Prerequisites:
