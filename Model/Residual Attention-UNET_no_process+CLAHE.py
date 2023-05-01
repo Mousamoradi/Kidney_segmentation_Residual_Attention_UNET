@@ -132,7 +132,7 @@ def conv_block(x, filter_size, size, dropout, batch_norm=False):
 
 
 def repeat_elem(tensor, rep):
-    # lambda function to repeat Repeats the elements of a tensor along an axis
+    # lambda function to repeat the elements of a tensor along an axis
     #by a factor of rep.
     # If tensor has shape (None, 256,256,3), lambda will return a tensor of shape 
     #(None, 256,256,6), if specified axis=3 and rep=2.
