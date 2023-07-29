@@ -46,4 +46,4 @@ Note: All codes inside "Model" use no image processing in default. To activate i
 
 ![resattunet](https://user-images.githubusercontent.com/78983558/150027167-b557ff39-39db-49e0-b90e-229328624e32.png)
 
-
+[![DOI](https://zenodo.org/badge/448736581.svg)](https://zenodo.org/badge/latestdoi/448736581)
